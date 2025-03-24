@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wackoflaka&label=Profile%20views&color=0e75b6&style=flat" alt="wackoflaka" /> </p>
 
-- 🔭 I’m currently working on **a business web application**
+- 🔭 I’m currently working on **building my skills in Full Stack Development**
 
 - 🌱 I’m currently learning **Frameworks and courses**
 
